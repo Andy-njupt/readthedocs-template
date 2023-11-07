@@ -38,7 +38,5 @@ html_theme = 'sphinx_enos_theme'
 
 html_theme_path = [sphinx_enos_theme.get_html_theme_path()]
 
-html_
-
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
