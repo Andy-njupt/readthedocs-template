@@ -2,7 +2,7 @@
 
 # -- Project information
 
-import sphinx_enos_theme
+# import sphinx_enos_theme
 # import sys
 # reload(sys)
 # sys.setdefaultencoding('utf-8')
